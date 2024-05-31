@@ -424,4 +424,8 @@
 .footer__copyright {
   margin-right: auto;
   justify-content: space-between;
+  color: #ffffff;
+}
+.footer__column-link {
+  color: #ffffff;
 }

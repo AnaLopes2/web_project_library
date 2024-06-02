@@ -413,7 +413,6 @@
 }
 
 .footer__social-icon {
-  margin-right: 10px;
   width: 16px;
   height: 16px;
 }
@@ -427,5 +426,5 @@
   text-decoration: none;
   display: flex;
   align-items: center;
-  row-gap: 18px;
+  column-gap: 10px;
 }
